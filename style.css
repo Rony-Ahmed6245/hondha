@@ -1,0 +1,40 @@
+.uper-sec{
+    background-color:#264653;
+}
+.header-btn{
+    background-color:#e76f51 ;
+    color: white;
+}
+.honda-btn{
+    width: 200px;
+    background-color:#e76f51 ;
+    color: white;
+}
+.logo{
+    width: 100px;
+}
+.hori{
+    width:10px;
+}
+.bike img{
+    width:380px;
+}
+span{
+    color:#e76f51;
+}
+.Frequentl img{
+    width: 450px;
+}
+footer{
+    
+    height: 300px;
+}
+.apps img{
+    width: 200px;
+}
+.last-text{
+    letter-spacing:1px;
+}
+.footer-sec{
+   background-color: #0b0d17;
+}
